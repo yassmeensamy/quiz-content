@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "levels": [
     {
       "id": 1,
@@ -18,6 +18,12 @@
       "question": "What is the capital of France?",
       "answers": ["Berlin", "Madrid", "Paris"],
       "correct": 2
+    },
+    {
+      "id": 4,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": ["Charles Dickens", "William Shakespeare", "Mark Twain"],
+      "correct": 1
     }
   ]
 }
